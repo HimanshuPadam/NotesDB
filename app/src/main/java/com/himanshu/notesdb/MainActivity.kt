@@ -1,6 +1,8 @@
 package com.himanshu.notesdb
 
 import android.app.Dialog
+import android.content.Intent
+import android.graphics.fonts.Font
 import android.os.AsyncTask
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
